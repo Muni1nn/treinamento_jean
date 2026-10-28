@@ -4,7 +4,7 @@ nome: caractere
 nota1, nota2, nota3, nota4, media: real
 
 inicio
-    escreval("Informe nome do auluno")
+    escreval("Informe nome do aluno")
     leia(nome)
 
     escreval("Informe primeira nota")
