@@ -1,0 +1,12 @@
+[
+  {
+    "key": "ctrl+alt+n",
+    "command": "portugol.run",
+    "when": "editorTextFocus && resourceLangId == portugol"
+  },
+  {
+    "key": "ctrl+alt+n",
+    "command": "code-runner.run",
+    "when": "editorTextFocus && resourceLangId != portugol"
+  }
+]
