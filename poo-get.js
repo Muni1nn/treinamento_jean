@@ -5,7 +5,7 @@ class Carro {
     this.marca = marca;         // Propriedade Pública
     this.modelo = modelo;       // Propriedade Pública
     this.cor = cor;             // Propriedade Pública
-    this.ligado = false;        // Estado inicial
+    this.ligado = true;        // Estado inicial
     this.velocidade = 0;        // Estado inicial
 
     this.#combustivel = combustivelInicial;
